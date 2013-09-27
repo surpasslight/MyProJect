@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KEYZHU</Machine>
+    <WindowsUser>Kzhu</WindowsUser>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <RegisteredManifestChecksum>835F2354729EEE85DC877B390B9CDA76B54E2074A103772FD1948220946C3350</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-13T11:38:35.991</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\Application1.exe">
+      <PackagePath>Application1.exe</PackagePath>
+      <Modified>2012-12-13T11:38:35.882</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\Application1.pdb">
+      <PackagePath>Application1.pdb</PackagePath>
+      <Modified>2012-12-13T11:38:35.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-05-29T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-05-29T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-05-29T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-05-29T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2012-05-29T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2012-05-29T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2012-05-29T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-05-29T05:10:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-05-29T07:40:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2012-12-13T11:34:58.575</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2012-05-29T07:42:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2012-05-29T07:12:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Kzhu\Desktop\Sample_VariableSizedWrapGrid\Application1\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-12-13T11:38:35.940</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
